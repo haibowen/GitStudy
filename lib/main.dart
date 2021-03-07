@@ -98,7 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
               style: Theme.of(context).textTheme.headline4,
             ),
             Text(
-              '$11111111111333333333',
+              '11111111111333333333',
               style: Theme.of(context).textTheme.headline4,
             ),
           ],
